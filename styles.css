@@ -48,3 +48,8 @@
   border-left: 1px solid black;
   text-align: center;
 }
+
+img {
+  width: 4.5vw;
+  height: 4.5vw;
+}
